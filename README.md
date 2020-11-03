@@ -25,6 +25,7 @@ Run the following command:
 ``` npm start ```
 
 
-Contact rayanahmedy1999@gmail.com
+## Contact
+rayanahmedy1999@gmail.com
 ##
 GitHub account:  https://github.com/rahmedy
