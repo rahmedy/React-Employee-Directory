@@ -2,6 +2,9 @@
       
     
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+## Deployed Application 
+https://rahmedy.github.io/React-Employee-Directory/
 ## Description
 Will allow user to see a list of employees showcasing thier name, number, DOB and email powered by react
 ## Table of Contents
