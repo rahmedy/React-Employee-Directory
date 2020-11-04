@@ -6,7 +6,11 @@
 ## Deployed Application 
 https://rahmedy.github.io/React-Employee-Directory/
 ## Description
-Will allow user to see a list of employees showcasing thier name, number, DOB and email powered by react
+This react applicatiuon required breaking down the application's UI into components, manage component state, and respond to user events so that the user can I be able to view his/her entire employee directory at once so that I have quick access to their information.
+
+## Business Context
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
