@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Deployed Application 
-https://bit.ly/2JqSij7
+https://rahmedy.github.io/React-Employee-Directory/
 ## Description
 This React application required breaking down the application's UI into components, manage component state, and respond to user events so that the user can I be able to view his/her entire employee directory at once so that I have quick access to their information.
 
