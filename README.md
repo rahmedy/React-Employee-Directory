@@ -1,7 +1,7 @@
 # React-Employee-Directory
       
     
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](/Users/rayanahmedy/Desktop/GTBootcamp/Homework/React-Employee-Directory/public/demo.png)
 
 ## Deployed Application 
 https://rahmedy.github.io/React-Employee-Directory/
